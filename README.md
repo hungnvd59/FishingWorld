@@ -5,4 +5,7 @@
 + Tải workbech bản mới nhất tại: ***https://dev.mysql.com/downloads/workbench/***
 + Install workbech và run file SQL
 + Import project vào eclipse dạng project maven
-+ Build dependency và run with tomcat 9.0.23 
++ Build dependency và run with tomcat 9.0.23
++ Paste link: ***http://localhost:8080/FishingWorld/home*** vào chrome
+
+***Còn 1 số phần cần config sẽ udpate sau***
